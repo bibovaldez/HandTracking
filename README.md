@@ -15,7 +15,7 @@ python hand_tracking.py
 ```
 Once the program is running, you can press the 'q' key to quit the program.
 
-##Photos 
+## Photos 
 ![Hand Tracking](https://github.com/bibovaldez/HandTracking/blob/main/IMG_20230905_155310.jpg)
 
 
